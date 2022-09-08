@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - waypoint
+  - LevelController
+  - AI
+  - Gun
+  - EnviromentInteractble
+  - GunModel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Gun
+  - Water
+  - UI
+  - AI
+  - Player
+  - Cover
+  - Doors
+  - EnviromentInteractable
+  - Obstacles
+  - Wall
+  - laser
+  - EnviromentHazard
+  - CameraMan
+  - NoNavmesh
+  - SmokeLayer
+  - Posion
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Text
+    uniqueID: 2528782779
+    locked: 0

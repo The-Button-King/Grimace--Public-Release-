@@ -1,0 +1,5 @@
+Prefab Light Baking from github.com/Ayfel/PrefabLightmapping
+
+Screen Effect code from github.com/Cyanilux/URP_BlitRenderFeature
+
+NodeCanvas was used to build AI behavour trees, from https://assetstore.unity.com/packages/tools/visual-scripting/nodecanvas-14914

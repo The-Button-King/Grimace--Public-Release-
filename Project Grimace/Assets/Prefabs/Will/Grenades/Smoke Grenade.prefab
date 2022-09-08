@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5935856848421626695
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3053046700577943561, guid: 34db6e3cb0006be438560dd3d00655dd, type: 3}
+      propertyPath: m_endMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: c688e322febbd434e89199fbec0e6047, type: 2}
+    - target: {fileID: 3053046700577943561, guid: 34db6e3cb0006be438560dd3d00655dd, type: 3}
+      propertyPath: m_startMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: c36821984af553444a9935f9d7b8e3c5, type: 2}
+    - target: {fileID: 3053046700577943561, guid: 34db6e3cb0006be438560dd3d00655dd, type: 3}
+      propertyPath: m_effectToTrigger
+      value: 
+      objectReference: {fileID: 4319224390228446971, guid: c0410ebe415f40949bd2cd67e87927a5, type: 3}
+    - target: {fileID: 5042006483196660490, guid: 34db6e3cb0006be438560dd3d00655dd, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5042006483196660490, guid: 34db6e3cb0006be438560dd3d00655dd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5042006483196660490, guid: 34db6e3cb0006be438560dd3d00655dd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5042006483196660490, guid: 34db6e3cb0006be438560dd3d00655dd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5042006483196660490, guid: 34db6e3cb0006be438560dd3d00655dd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5042006483196660490, guid: 34db6e3cb0006be438560dd3d00655dd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5042006483196660490, guid: 34db6e3cb0006be438560dd3d00655dd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5042006483196660490, guid: 34db6e3cb0006be438560dd3d00655dd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5042006483196660490, guid: 34db6e3cb0006be438560dd3d00655dd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5042006483196660490, guid: 34db6e3cb0006be438560dd3d00655dd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5042006483196660490, guid: 34db6e3cb0006be438560dd3d00655dd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6519857356746195046, guid: 34db6e3cb0006be438560dd3d00655dd, type: 3}
+      propertyPath: m_Name
+      value: Smoke Grenade
+      objectReference: {fileID: 0}
+    - target: {fileID: 7286460810107611278, guid: 34db6e3cb0006be438560dd3d00655dd, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0ea8480e85b9b614f820da0ab4228ea8, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 34db6e3cb0006be438560dd3d00655dd, type: 3}

@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &582599039889332346
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 582599039889332344}
+  - component: {fileID: 582599039889332347}
+  m_Layer: 0
+  m_Name: Pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &582599039889332344
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 582599039889332346}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 57.405434, y: 1.7835431, z: -67.94475}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &582599039889332347
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 582599039889332346}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28eae4ed077a5344583df59f24e33e2f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_pools:
+  - poolObject: {fileID: 8878907117439443277, guid: 7cde6fa166dbd0849bb285f459ccc51f, type: 3}
+    amountToPool: 10
+  - poolObject: {fileID: 6983063398795854426, guid: 6215e202f225cbc4b972a209f29de7b9, type: 3}
+    amountToPool: 8
+  - poolObject: {fileID: 640313512393105423, guid: f5b6c56de954a8f418790954d4668fac, type: 3}
+    amountToPool: 3
+  - poolObject: {fileID: 4559617266030987836, guid: 2d20f9db2cb04dd48bb6b40dc1847601, type: 3}
+    amountToPool: 10
+  - poolObject: {fileID: 7863531043566324922, guid: c0324173e77869b4c98cc2b9b86ca36a, type: 3}
+    amountToPool: 6
+  - poolObject: {fileID: 8340968159997028218, guid: eada1c54f0568cf4ba2b5e7c5b23e597, type: 3}
+    amountToPool: 30
+  - poolObject: {fileID: 4571739552655625208, guid: 5d79358c467cec343bb5088bd21c89ac, type: 3}
+    amountToPool: 14
+  - poolObject: {fileID: 4319224390228446971, guid: c0410ebe415f40949bd2cd67e87927a5, type: 3}
+    amountToPool: 14
+  - poolObject: {fileID: 7869259080619979557, guid: 07a9c58a153bb584ca109295c0771c74, type: 3}
+    amountToPool: 5
+  - poolObject: {fileID: 4170972785479377270, guid: e16eae8984a5ec846ab5f1f6e9e58107, type: 3}
+    amountToPool: 4
+  - poolObject: {fileID: 6845216702524458013, guid: 3e3ae98792039864899713aa3d27b47c, type: 3}
+    amountToPool: 4
+  - poolObject: {fileID: 8409612895390138729, guid: 6b1f11d99e1d71f45b2acd6938223232, type: 3}
+    amountToPool: 31
+  - poolObject: {fileID: 253830536427585696, guid: ba9bceb68b2e3be4898434ff0e1f88f9, type: 3}
+    amountToPool: 31
+  - poolObject: {fileID: 253830536427585696, guid: f528ec5ab3228c2478c8f2786325e8e5, type: 3}
+    amountToPool: 10
+  - poolObject: {fileID: 253830536427585696, guid: 79e9d336eeef1cb4386c758af06e4ef8, type: 3}
+    amountToPool: 50
+  - poolObject: {fileID: 102326475480541494, guid: 7edca10cb8e24c94db0e16935b8171f6, type: 3}
+    amountToPool: 10
+  - poolObject: {fileID: 102326475480541494, guid: 3f9dabc25b563e1409a1925d046c166b, type: 3}
+    amountToPool: 10
+  - poolObject: {fileID: 1876081050882714, guid: e5df5caad603c8349ba3481b8ded0927, type: 3}
+    amountToPool: 56
+  - poolObject: {fileID: 34050401655778326, guid: e2255f3a8433ea042824476c61b9a382, type: 3}
+    amountToPool: 56
+  - poolObject: {fileID: 5036736469109902619, guid: f3f201f20d5e32347be4feb226940ef5, type: 3}
+    amountToPool: 40
+  - poolObject: {fileID: 1088098758586682380, guid: 31fc2c3ecb49f074d8078cfc49ca986c, type: 3}
+    amountToPool: 15
+  - poolObject: {fileID: 584141812771234593, guid: 1a6daa7d9b9c4b742a36848ce60ad328, type: 3}
+    amountToPool: 15
+  - poolObject: {fileID: 3247143656146720051, guid: 55752724698042349a2d7f9cb8e4d53e, type: 3}
+    amountToPool: 15
+  - poolObject: {fileID: 584141812771234593, guid: 00973ca09b2befa49a8fd4aa0482da68, type: 3}
+    amountToPool: 15
+  - poolObject: {fileID: 2215220524454120862, guid: 3d2f1ef9343ed704288a51022316f9a7, type: 3}
+    amountToPool: 5
+  - poolObject: {fileID: 6066569995293949840, guid: 75a2d250173f97349905d931dcad6e4e, type: 3}
+    amountToPool: 5
+  - poolObject: {fileID: 8112114763801814768, guid: 1697341ec2cc4fd44a0d6ba9c163f70a, type: 3}
+    amountToPool: 5
+  - poolObject: {fileID: 2864757013202930710, guid: 783373f353da7db42b9579bcc6a5f090, type: 3}
+    amountToPool: 5
+  - poolObject: {fileID: 7323297980018250462, guid: 9180d05a416dd914f97fb70994e5e380, type: 3}
+    amountToPool: 5
+  - poolObject: {fileID: 7323297980018250462, guid: fb854ce68abe0f7449725855fb755260, type: 3}
+    amountToPool: 5
+  - poolObject: {fileID: 7323297980018250462, guid: 4c6ac1d1bfff9924e86abfd3b10b014a, type: 3}
+    amountToPool: 5
+  - poolObject: {fileID: 7323297980018250462, guid: 3cad900a1a4e8b04c9e813d1e2cdf4da, type: 3}
+    amountToPool: 5

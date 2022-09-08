@@ -1,0 +1,14 @@
+This game uses these sounds (named as they are in the project) from freesound:
+"Shutters Close" by bruno.auzet ( https://freesound.org/people/bruno.auzet/sounds/524695/ ) licensed under CC0 1.0
+"Light" by ImpendingOfficial( https://freesound.org/people/ImpendingOfficial/sounds/531063/ ) licensed under CC0 1.0
+
+Sounds taken from Youtube:
+"Shop button" from Windows Expert (https://www.youtube.com/watch?v=LmpBSYIuYQ8)
+"Fail buy" from ⚪︎αиgℓє⚪︎ (https://www.youtube.com/watch?v=iRwMDP5U81k)
+"Step" from Sound EffectsTras (https://www.youtube.com/watch?v=DJcc4F65RBo)
+
+"Buy" sound taken from https://www.101soundboards.com/sounds/14531-tada
+
+"Mage Attack" sound taken from Futuristic Sci Fi Lasers Blasters Weapons SFX Library (purchased from Humble Bundle)
+
+All other sounds from zapsplat.com
